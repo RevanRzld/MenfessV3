@@ -176,22 +176,22 @@ return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}debase32
 ┃▢ ${prefix}debase64
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}sendbug 628xxx
-┃▢ ${prefix}philips 628xxx
-┃▢ ${prefix}philips2 628xxx
-┃▢ ${prefix}philips3 628xxx
-┃▢ ${prefix}santet @tag
-┃▢ ${prefix}santet2 @tag
-┃▢ ${prefix}santet3 @tag
-┃▢ ${prefix}virtex 628xxx
-┃▢ ${prefix}virtex2 628xxx
-┃▢ ${prefix}virtex3 628xxx
-┃▢ ${prefix}bug1 628xxx
-┃▢ ${prefix}bug2 628xxx
-┃▢ ${prefix}bug3 628xxx
-┃▢ ${prefix}bug4 628xxx
-┃▢ ${prefix}bug5 628xxx
+┣━❲ 𝘽𝙐𝙂𝙑𝙄𝙋 𝙈𝙀𝙉𝙐 ❳ "ERROR"
+┃▢ ${prefix}sendbug 628xxx "ERROR"
+┃▢ ${prefix}philips 628xxx "ERROR"
+┃▢ ${prefix}philips2 628xxx "ERROR"
+┃▢ ${prefix}philips3 628xxx "ERROR"
+┃▢ ${prefix}santet @tag "ERROR"
+┃▢ ${prefix}santet2 @tag "ERROR"
+┃▢ ${prefix}santet3 @tag "ERROR"
+┃▢ ${prefix}virtex 628xxx "ERROR"
+┃▢ ${prefix}virtex2 628xxx "ERROR"
+┃▢ ${prefix}virtex3 628xxx "ERROR"
+┃▢ ${prefix}bug1 628xxx "ERROR"
+┃▢ ${prefix}bug2 628xxx "ERROR"
+┃▢ ${prefix}bug3 628xxx "ERROR"
+┃▢ ${prefix}bug4 628xxx "ERROR"
+┃▢ ${prefix}bug5 628xxx "ERROR"
 ┣━━━━━━━━━━━━━━
 ┣━❲ 𝙍𝘼𝙉𝘿𝙊𝙈 𝘾𝙀𝙆 ❳
 ┃▢ ${prefix}cekjelek
@@ -740,7 +740,7 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* Revan Rizaldi
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
  • *Askot:* Palembang
