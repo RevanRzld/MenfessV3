@@ -686,7 +686,7 @@ return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}cuddle
 ┃▢ ${prefix}hentai
 ┃▢ ${prefix}eroyuri
-┃▢ ${prefix}cum_jpg
+┃▢ ${prefix}cum_jpg🌈
 ┃▢ ${prefix}blowjob
 ┃▢ ${prefix}erofeet
 ┃▢ ${prefix}holoero
@@ -723,13 +723,13 @@ return`──「 *MENU DONATE* 」──
 
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
-*Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
-
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 0821187968321
+A/N: -
+
+*Payment Dana2*
+Number: 082118596966
+A/N: GANI NURDIANSYAH //Nama Abang Gua
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -741,16 +741,16 @@ return`──「 *INFO OWNER* 」──
 
  *Data Profil*
  • *Nama:* Revan Rizaldi
- • *Umur:* 18 tahun
- • *Hoby:* Turu/Game
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Umur:* Kepo Lu bangsat masih bocil gw
+ • *Hoby:* Turu/Main
+ • *Askot:* Bandung,Baleendah
+ • *Konten:* Bokep
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 081287968321
+ • *Youtube:* -
+ • *Github:* Kepo lu
  `
 }
